@@ -1,4 +1,4 @@
-import { NewsCard } from './Components/NewsCard'
+import { NewsCard } from './components/NewsCard'
 import { useState, useEffect } from 'react'
 import { NewsType } from './types/news'
 
